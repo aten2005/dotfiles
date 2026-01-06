@@ -1,0 +1,10 @@
+[2025-12-10 03:30:06.191] [info] Using configuration file /home/aten/.config/waybar/config.jsonc
+[2025-12-10 03:30:06.196] [info] Discovered appearance 'dark'
+[2025-12-10 03:30:06.196] [info] Using CSS file /home/aten/.config/waybar/style.css
+[2025-12-10 03:30:06.204] [info] Hyprland IPC starting
+[2025-12-10 03:30:06.205] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-12-10 03:30:06.205] [warning] 'swap-icon-label' must be a bool.
+[2025-12-10 03:30:06.351] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+MESA-INTEL: warning: ../src/intel/vulkan/anv_formats.c:944: FINISHME: support YUV colorspace with DRM format modifiers
+MESA-INTEL: warning: ../src/intel/vulkan/anv_formats.c:976: FINISHME: support more multi-planar formats with DRM modifiers
+Gdk-Message: 08:43:22.270: Error reading events from display: Broken pipe
